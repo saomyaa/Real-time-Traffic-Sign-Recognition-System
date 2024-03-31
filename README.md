@@ -1,4 +1,4 @@
-# Real time Traffic Sign Recognition
+# Real time Traffic Sign Recognition System
 * Real time video is taken as an input for the system.
 * Multiple frames from the video are captured until the camera is stopped.
 * To specify redness in an image, a defined returnRedness() named function is used which converts 
