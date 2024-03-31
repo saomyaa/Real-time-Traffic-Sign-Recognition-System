@@ -25,3 +25,6 @@ within the video frame.
 frequency of 2500Hz and interval of 1 second as an audio feedback and the name of predicted sign 
 is displayed in terminal.
 * Using twilio we create a notification alert which is sent via SMS on driver’s phone number.
+# How to Run
+* Final.py is the main file of the project, to run type python Final.py in the terminal.
+* Twilio account should be created if notification is a requirement and the SID, Token, Twilio account number and phone number should be replaced in the code. 
